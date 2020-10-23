@@ -1,0 +1,15 @@
+Node ID: c26fbb197836bf22
+
+Restart a node using local DB : 
+Measured time: 54 sec
+Chain length: 134405
+
+restart a node with --no-block-state-import:
+Measured time: 52 sec.
+Chain Length: 134428
+
+Logs submitted by 4 file:
+log.tar.gz.aa
+log.tar.gz.ab
+log.tar.gz.ac
+log.tar.gz.ad
